@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Proffesor Plugin | Greatkhanjoy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-22 09:16+0000\n"
+"PO-Revision-Date: 2023-05-22 09:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Mexico)\n"
+"Language: es_MX\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: professor-greatkhanjoy"
+
+#: build/index.js:162 src/index.js:10
+msgid "Block to generate a professor"
+msgstr ""
+
+#: build/index.js:192 src/index.js:43
+msgid "Loading..."
+msgstr ""
+
+#: build/index.js:203 src/index.js:56
+msgid "Select a professor"
+msgstr "ABCD"
+
+#. Name of the plugin
+msgid "Proffesor Plugin | Greatkhanjoy"
+msgstr ""
+
+#. Description of the plugin
+msgid "WordPress Professors Plugin"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://greatkhanjoy.wordpress.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Greatkhanjoy"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://greatkhanjoy.me/"
+msgstr ""

@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.professor_title{
+    font-size: 22px !important;
+    font-weight: 600;
+    line-height: normal !important;
+}
+
+.list-style_none{
+    list-style: none !important;
+}

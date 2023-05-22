@@ -1,0 +1,10 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "greatkhanjoy/proffesor",
+  "title": "Proffesor",
+  "editorScript": "file:./build/index.js",
+  "editorStyle": "file:./build/index.css",
+  "script": "file:./build/frontend.js",
+  "style": "file:./build/index.css"
+}

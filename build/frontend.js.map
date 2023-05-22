@@ -1,0 +1,1 @@
+{"version":3,"file":"frontend.js","mappings":";;;;;AAAAA,QAAQ,CAACC,gBAAgB,CAAC,kBAAkB,EAAE,YAAY;EACxD;AAAA,CACD,CAAC,C","sources":["webpack://greatkhanjoy-proffesors/./src/frontend.js"],"sourcesContent":["document.addEventListener(\"DOMContentLoaded\", function () {\r\n  //\r\n});\r\n"],"names":["document","addEventListener"],"sourceRoot":""}
